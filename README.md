@@ -6,7 +6,7 @@ The Taku (AnyThink) Pangle mediation adapter for iOS, distributed via Swift Pack
 
 - iOS 12.0+
 - Xcode 15.0+
-- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
+- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.60+
 
 ## Installation
 
@@ -34,8 +34,8 @@ dependencies: [
 
 ## Included dependencies
 
-- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.0)
-- [`PangleSDK`](https://github.com/bytedance/Pangle-Swift-Package) (pinned to the version certified for this adapter release)
+- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
+- [`AdsGlobalPackage`](https://github.com/bytedance/AdsGlobalPackage) (pinned to the version certified for this adapter release)
 
 ## More information
 
