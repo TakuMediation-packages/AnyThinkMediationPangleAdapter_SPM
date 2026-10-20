@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkPangleAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkPangleAdapter/8.2.1.0.2.0/AnyThinkPangleAdapter-8.2.1.0.2.0.zip",
-            checksum: "9d6e09c22efa741be99cd00b05318f711f311cb66bcee2d118507d596ba28766"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkPangleAdapter/8.2.1.0.2.9/AnyThinkPangleAdapter-8.2.1.0.2.9.zip",
+            checksum: "9de030d23f5fce2c6df59d471ec3b681d0410c8af68bd81a7c4e938b4d1bd6ac"
         ),
         .target(
             name: "AnyThinkMediationPangleAdapterTarget",
